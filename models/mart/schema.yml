@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: dbt_databricks
+    schema: ayush
+    tables:
+      - name: stg_user

@@ -1,0 +1,9 @@
+
+version: 2
+
+source:
+  - name: ayush
+    database: ayush
+    description: raw data storage for users
+    tables:
+      - name: raw_users
